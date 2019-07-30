@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import { sounds } from '../sounds'
 import DrumPad from './DrumPad'
 import { keys, upperAndLower } from '../data'
+import './drumPadStyles.css'
 
 class DrumPads extends Component {
 
@@ -37,7 +38,7 @@ class DrumPads extends Component {
   }
 
   render() {
-    return <div >{this.makeDrumPads()}</div>
+    return <div className="container" >{this.makeDrumPads()}</div>
   }
 }
 
