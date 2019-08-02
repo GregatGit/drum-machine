@@ -1,8 +1,7 @@
 import React, { Component } from 'react'
-import { soundsA, soundsB } from '../sounds'
+import { soundsA, soundsB, keys } from '../sounds'
 import DrumPad from './DrumPad'
 import MessageBoard from './MessageBoard'
-import { keys, upperAndLower } from '../data'
 import './drumPadStyles.css'
 
 class DrumPads extends Component {

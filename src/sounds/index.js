@@ -40,3 +40,4 @@ export const soundsB = {
   X: { id: 'X', key: 88, name: `ray`, url: ray },
   C: { id: 'C', key: 67, name: `theme`, url: theme },
 }
+export const keys = ['Q', 'W', 'E', 'A', 'S', 'D', 'Z', 'X', 'C']
