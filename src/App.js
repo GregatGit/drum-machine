@@ -2,10 +2,7 @@ import React from 'react'
 
 import DrumPads from './components/DrumPads'
 
-
-
-function App() {
-  
+function App() { 
   return (
     <div id="drum-machine">
       My React Drum Machine
