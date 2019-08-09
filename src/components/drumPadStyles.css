@@ -1,3 +1,20 @@
+:root {
+  --base: #ffc600;
+  --drum: rgb(84, 84, 231);
+}
+
+.myMachine {
+  background-image: url('https://au.yamaha.com/en/files/drum_sets_1200x480_428f6ffe47da4e7cd058b85bd85cc382.jpg');
+}
+
+.myCat {
+  background-image: url('http://weknowmemes.com/wp-content/uploads/2013/12/space-cats-11.jpg');
+}
+
+h2 {
+  text-align: center;
+}
+
 .container {
   display: grid;
   grid-template-columns: 190px 190px 190px;
@@ -19,6 +36,10 @@
 
 .playing {
   transform: scale(1.1);
-  border-color: #ffc600;
-  box-shadow: 0 0 1rem #ffc600;
+  border-color: var(--drum);
+  box-shadow: 0 0 1rem var(--drum);
+}
+
+.top {
+  text-align: center;
 }
