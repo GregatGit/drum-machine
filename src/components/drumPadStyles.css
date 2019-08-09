@@ -1,6 +1,7 @@
 :root {
   --base: #ffc600;
   --drum: rgb(84, 84, 231);
+  --white: rgba(240, 227, 227, 0.863);
 }
 
 .myMachine {
@@ -18,8 +19,14 @@
   background-size: cover;
 }
 
+h1 {
+  text-align: center;
+  color: var(--white);
+}
+
 h2 {
   text-align: center;
+  color: var(--white);
 }
 
 .container {
@@ -49,4 +56,19 @@ h2 {
 
 .top {
   text-align: center;
+}
+
+.myBtn {
+  border: 2px solid #0099CC;
+  background: transparent;
+  width: 90%;
+  border-radius: 10px;
+  color: var(--white);
+  text-align: center;
+  margin-top: 12%;
+  margin-left: 10%;
+}
+
+.container {
+  border: 2px solid #0099CC;
 }

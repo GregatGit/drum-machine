@@ -32,12 +32,17 @@ class DrumPads extends Component {
   render() {
     return (
       <div id="display" className={this.state.background}>
-        <h2>DRUM MACHINE</h2>
+        
 
         <div className="container">
-          <button className="top" onClick={this.changeSounds}>CHANGE SOUNDS</button>
-          <div className="top message-board">{this.state.message}</div>
-          <div className="top">Sounds: {(this.state.soundIndex === 'A') ? 'Drums' : 'Cats and Lasers'}</div>
+          <div></div>
+          <div><h1>DRUM MACHINE</h1></div>
+          <div></div>
+          <div>
+          <button className="top myBtn" onClick={this.changeSounds}><h2>CHANGE SOUNDS</h2></button>
+          </div>
+          <div className="top message-board"><h2>{this.state.message}</h2></div>
+          <div className="top"><h2>{(this.state.soundIndex === 'A') ? 'Drums' : 'Cats and Lasers'}</h2></div>
           {this.makeDrumPads()}
         </div>
       </div>
