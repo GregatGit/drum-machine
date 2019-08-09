@@ -5,10 +5,17 @@
 
 .myMachine {
   background-image: url('https://au.yamaha.com/en/files/drum_sets_1200x480_428f6ffe47da4e7cd058b85bd85cc382.jpg');
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat;
+  background-size: cover;
+  
 }
 
 .myCat {
-  background-image: url('http://weknowmemes.com/wp-content/uploads/2013/12/space-cats-11.jpg');
+  background-image: url('https://www.starwarscats.com/wp-content/uploads/2013/01/cat-star-wars-lasers.jpg');
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 h2 {
