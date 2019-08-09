@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/drum-machine/static/css/main.96404db9.chunk.css",
+    "main.js": "/drum-machine/static/js/main.8553fdc2.chunk.js",
+    "main.js.map": "/drum-machine/static/js/main.8553fdc2.chunk.js.map",
+    "runtime~main.js": "/drum-machine/static/js/runtime~main.27309cc5.js",
+    "runtime~main.js.map": "/drum-machine/static/js/runtime~main.27309cc5.js.map",
+    "static/js/2.5b6e6034.chunk.js": "/drum-machine/static/js/2.5b6e6034.chunk.js",
+    "static/js/2.5b6e6034.chunk.js.map": "/drum-machine/static/js/2.5b6e6034.chunk.js.map",
+    "index.html": "/drum-machine/index.html",
+    "precache-manifest.f6e5c6a3fc44c63dec7163e83d3eb271.js": "/drum-machine/precache-manifest.f6e5c6a3fc44c63dec7163e83d3eb271.js",
+    "service-worker.js": "/drum-machine/service-worker.js",
+    "static/css/main.96404db9.chunk.css.map": "/drum-machine/static/css/main.96404db9.chunk.css.map",
+    "static/media/boom.wav": "/drum-machine/static/media/boom.550be808.wav",
+    "static/media/clap.wav": "/drum-machine/static/media/clap.a6e86dd7.wav",
+    "static/media/endTheme.wav": "/drum-machine/static/media/endTheme.79fad6b0.wav",
+    "static/media/fullLaser.wav": "/drum-machine/static/media/fullLaser.3caaece1.wav",
+    "static/media/glassBreak.wav": "/drum-machine/static/media/glassBreak.992e461e.wav",
+    "static/media/hihat.wav": "/drum-machine/static/media/hihat.4ba39e07.wav",
+    "static/media/hiss.wav": "/drum-machine/static/media/hiss.f78ae154.wav",
+    "static/media/kick.wav": "/drum-machine/static/media/kick.4dd58595.wav",
+    "static/media/laser.wav": "/drum-machine/static/media/laser.c3de44fb.wav",
+    "static/media/laserShot.wav": "/drum-machine/static/media/laserShot.ec908912.wav",
+    "static/media/meowAngry.wav": "/drum-machine/static/media/meowAngry.421c3d5c.wav",
+    "static/media/openhat.wav": "/drum-machine/static/media/openhat.a62db465.wav",
+    "static/media/ray.wav": "/drum-machine/static/media/ray.691b14ea.wav",
+    "static/media/record.wav": "/drum-machine/static/media/record.eaa1c7c2.wav",
+    "static/media/ride.wav": "/drum-machine/static/media/ride.b0d70ec5.wav",
+    "static/media/snare.wav": "/drum-machine/static/media/snare.80c4129b.wav",
+    "static/media/tink.wav": "/drum-machine/static/media/tink.2a6bb6f5.wav",
+    "static/media/tom.wav": "/drum-machine/static/media/tom.572ed39d.wav"
+  }
+}
