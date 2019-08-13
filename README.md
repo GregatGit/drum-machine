@@ -1,6 +1,6 @@
 ## Drum-Machine
 
-This is a freeCodeCamp challenge
+This is a freeCodeCamp challenge by Greg Duncan
 
 - react 16.8.6
 - react-redux chrome tools
